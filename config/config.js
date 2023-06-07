@@ -1,10 +1,16 @@
 let config = {
   /* FOR_DEPLOYMENT_ONLY */
+  // db: {
+  //   host: "localhost",
+  //   user: "root",
+  //   password: "password",
+  //   database: "investmentcoin",
+  // },
   db: {
-    host: "localhost",
-    user: "root",
-    password: "password",
-    database: "investmentcoin",
+    host: "115.186.185.238",
+    user: "umair",
+    password: "Uma27!#2#5",
+    database: "test",
   },
   email: {
     host: "mail.agilevectors.com",
